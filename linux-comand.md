@@ -5,6 +5,7 @@ View a file with search row
   
 ---
 Count process `imap-login` 
-`wc`: or "word count," prints a count of newlines, words, and bytes for each input file.
+`w`:	print the word counts.
+`c`:	print the byte counts.
 
 ```ps ax | grep imap-login  | wc```
