@@ -2,6 +2,10 @@ Who connect to dovet service email
 
 ```
 doveadm who
+```
+
+Reload service Email
+```
 doveadm reload
 ```
 
