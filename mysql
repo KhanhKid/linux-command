@@ -1,0 +1,4 @@
+#show proccess list
+watch -n 1 'echo "show processlist;" | mysql -uroot -proot';
+
+#
