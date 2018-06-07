@@ -1,0 +1,6 @@
+Connect bash
+docker exec -it fefde9ebb26c /bin/bash
+
+docker stop [container]
+
+
