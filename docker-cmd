@@ -1,6 +1,10 @@
 Connect bash
 docker exec -it fefde9ebb26c /bin/bash
 
+
+start a images docker 
+docker run -i -t 8dbd9e392a96 /bin/bash
+
 docker stop [container]
 
 
