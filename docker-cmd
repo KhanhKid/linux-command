@@ -8,3 +8,11 @@ docker run -i -t 8dbd9e392a96 /bin/bash
 docker stop [container]
 
 
+ERORR Docker for win 
+
++ Share storage for win
+https://stackoverflow.com/questions/42203488/settings-to-windows-firewall-to-allow-docker-for-windows-to-share-drive/50925764#50925764
+
+
++ No network in Container 
+https://github.com/docker/for-win/issues/1397
